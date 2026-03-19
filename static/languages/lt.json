@@ -1,13 +1,12 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Kurios ES šalys pirmauja patentų lenktynėse?",
+  "subtitle": "2024 m. Europos patentų biurui buvo pateiktos net 69 852 patentų paraiškos.",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
+  "textNote": "Šis rodiklis matuoja prašymus apsaugoti išradimą, pateiktus Europos patentų tarnybai (EPT), neatsižvelgiant į tai, ar jie patenkinami, ar ne. Paraiškos skirstomos pagal pirmojo pareiškėjo, nurodyto paraiškos formoje, gyvenamąją šalį (pirmojo pareiškėjo principas), taip pat pagal išradėjo gyvenamąją šalį.",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
+  "textSource": "Eurostatas (2026 m.)",
+  "linkDataAccessDescription": "Prieiga prie duomenų",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spauskite čia"
+  "customUnitLabel": "100 000 gyventojų",
+  "tooltipExtraInfoLabel": "Spustelėkite čia"
 }
