@@ -1,13 +1,12 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Kuras ES valstis ir patentu sacensību līderes?",
+  "subtitle": "2024. gadā Eiropas Patentu iestādē tika iesniegti pat 69 852 patentu pieteikumi.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Šis rādītājs mēra Eiropas Patentu iestādē (EPO) iesniegto izgudrojuma aizsardzības pieprasījumu skaitu neatkarīgi no tā, vai tie ir apstiprināti vai nē. Pieteikumi tiek sadalīti atbilstoši pieteikuma veidlapā norādītā pirmā pieteikuma iesniedzēja dzīvesvietas valstij (pirmā pieteicēja princips), kā arī atbilstoši izgudrotāja dzīvesvietas valstij.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
+  "customUnitLabel": "uz 100 000 iedzīvotājiem",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
