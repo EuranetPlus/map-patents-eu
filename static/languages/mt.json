@@ -1,13 +1,12 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Liema pajjiżi tal-UE qegħdin imexxu t-tellieqa għall-brevetti?",
+  "subtitle": "Fl-2024, ġew ippreżentati sa 69,852 applikazzjoni għal brevetti lill-Uffiċċju Ewropew tal-Brevetti.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Dan l-indikatur ikejjel it-talbiet għall-protezzjoni ta’ invenzjoni ppreżentati lill-Uffiċċju Ewropew tal-Brevetti (EPO) irrispettivament minn jekk jiġux aċċettati jew le. L-applikazzjonijiet huma allokati skont il-pajjiż ta’ residenza tal-ewwel applikant elenkat fuq il-formola tal-applikazzjoni (il-prinċipju tal-ewwel applikant imsemmi) kif ukoll skont il-pajjiż ta’ residenza tal-inventur.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "L-Eurostat (2026)",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
+  "customUnitLabel": "għal kull 100,000 resident",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
