@@ -1,13 +1,12 @@
 {
-  "title": "Millised ELi riigid pakuvad parimaid töövõimalusi?",
-  "subtitle": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
+  "title": "Millised EL riigid on patendivõistluse liidrid?",
+  "subtitle": "2024. aastal esitati Euroopa Patendiametile koguni 69 852 patenditaotlust.",
   "textNoteDescription": "Märkus",
-  "textNote": "sdchdc",
+  "textNote": "See näitaja mõõdab Euroopa Patendiametile (EPO) esitatud leiutise kaitse taotlusi olenemata sellest, kas need rahuldatakse või mitte. Taotlused jaotatakse vastavalt taotlusvormil loetletud esimese taotleja elukohariigile (esimese taotleja põhimõte) ja leiutaja elukohariigile.",
   "textSourceDescription": "Allikas",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_DE": "Saksamaa kiirendab taastuvenergia kasutuselevõttu, seab eesmärgiks 80% puhta energia kasutamise aastaks 2030",
-  "extraInfo_FR": "Prantsusmaa parlament kiitis üleriigiliste protestide taustal heaks immigratsioonireformi seaduse eelnõu",
-  "legend1": "Andmed puuduvad",
-  "tooltipExtraInfoLabel": "Klõpsake siin"
+  "legend1": "Andmed pole saadaval",
+  "customUnitLabel": "100 000 elaniku kohta",
+  "tooltipExtraInfoLabel": "Kliki siia"
 }
