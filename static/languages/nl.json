@@ -1,13 +1,12 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Welke EU-landen lopen voorop in de patentrace?",
+  "subtitle": "In 2024 werden maar liefst 69.852 octrooiaanvragen ingediend bij het Europees Octrooibureau.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "Deze indicator meet aanvragen voor de bescherming van een uitvinding die zijn ingediend bij het Europees Octrooibureau (EPO), ongeacht of deze worden toegekend of niet. Aanvragen worden toegewezen op basis van het land van verblijf van de eerstgenoemde aanvrager (principe van de eerstgenoemde aanvrager) en op basis van het land van verblijf van de uitvinder.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
+  "customUnitLabel": "per 100.000 inwoners",
   "tooltipExtraInfoLabel": "Klik hier"
 }
