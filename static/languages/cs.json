@@ -1,13 +1,12 @@
 {
-  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
+  "title": "Které země EU vedou v patentovém závodě?",
+  "subtitle": "V roce 2024 bylo u Evropského patentového úřadu podáno až 69 852 patentových přihlášek.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Tento ukazatel měří žádosti o ochranu vynálezu podané u Evropského patentového úřadu (EPO) bez ohledu na to, zda jsou žádosti schváleny či nikoli. Žádosti jsou přidělovány podle země bydliště prvního žadatele uvedeného v žádosti (princip prvního jmenovaného žadatele) a také podle země bydliště vynálezce.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
-  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "legend1": "Žádné údaje k dispozici",
+  "customUnitLabel": "na 100 000 obyvatel",
   "tooltipExtraInfoLabel": "Klikněte zde"
 }
