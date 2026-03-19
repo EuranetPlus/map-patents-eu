@@ -1,13 +1,12 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Które kraje UE przodują w wyścigu patentowym?",
+  "subtitle": "W 2024 roku do Europejskiego Urzędu Patentowego złożono 69 852 wniosków patentowych.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Wskaźnik ten mierzy liczbę wniosków o ochronę wynalazku złożonych w Europejskim Urzędzie Patentowym (EPO), niezależnie od tego, czy zostały one uwzględnione, czy nie. Wnioski są przydzielane według kraju zamieszkania pierwszego wnioskodawcy wymienionego w formularzu zgłoszeniowym (zasada pierwszego wnioskodawcy), a także według kraju zamieszkania wynalazcy.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
+  "customUnitLabel": "na 100 000 mieszkańców",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
