@@ -1,13 +1,12 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Mitkä EU-maat johtavat patenttikilpailua?",
+  "subtitle": "Vuonna 2024 Euroopan patenttivirastoon jätettiin peräti 69 852 patenttihakemusta.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Tämä indikaattori mittaa Euroopan patenttivirastolle (EPO) jätettyjä keksinnön suojaamishakemuksia riippumatta siitä, myönnetäänkö ne vai ei. Hakemukset kohdennetaan hakemuslomakkeella mainitun ensimmäisen hakijan asuinmaan mukaan (ensimmäisenä nimetyn hakijan periaate) sekä keksijän asuinmaan mukaan.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
+  "legend1": "Ei tietoja saatavilla",
+  "customUnitLabel": "100 000 asukasta kohden",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }
