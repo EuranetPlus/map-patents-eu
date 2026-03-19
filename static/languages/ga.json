@@ -1,13 +1,12 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cé na tíortha AE atá i gceannas ar an rás paitinne?",
+  "subtitle": "Sa bhliain 2024, comhdaíodh 69,852 iarratas ar phaitinn chuig Oifig Paitinní na hEorpa.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Tomhaiseann an táscaire seo iarratais ar chosaint aireagáin a comhdaíodh leis an Oifig Paitinní Eorpach (OPE) beag beann ar dheonú nó nach ndeonú. Déantar iarratais a leithdháileadh de réir thír chónaithe an chéad iarratasóra atá liostaithe ar an bhfoirm iarratais (prionsabal an iarratasóra céadainmnithe) chomh maith le de réir thír chónaithe an aireagóra.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
+  "customUnitLabel": "in aghaidh gach 100,000 cónaitheoir",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
