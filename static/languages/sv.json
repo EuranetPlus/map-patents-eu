@@ -1,13 +1,12 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Vilka EU-länder leder patentkapplöpningen?",
+  "subtitle": "År 2024 lämnades så många som 69 852 patentansökningar in till Europeiska patentverket.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Denna indikator mäter ansökningar om skydd av en uppfinning som lämnats in till Europeiska patentverket (EPO), oavsett om de beviljas eller inte. Ansökningar fördelas enligt den första sökanden som anges på ansökningsblankettens hemvistland (principen om att sökanden ska vara först namngiven) samt enligt uppfinnarens hemvistland.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
+  "customUnitLabel": "per 100 000 invånare",
   "tooltipExtraInfoLabel": "Klicka här"
 }
