@@ -1,13 +1,12 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Care țări ale UE sunt în fruntea cursei pentru brevete?",
+  "subtitle": "În 2024, la Oficiul European de Brevete au fost depuse 69.852 de cereri de brevet.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Acest indicator măsoară cererile de protecție a unei invenții depuse la Oficiul European de Brevete (OEB), indiferent dacă sunt aprobate sau nu. Cererile sunt alocate în funcție de țara de reședință a primului solicitant menționat în formularul de cerere (principiul primului solicitant menționat), precum și în funcție de țara de reședință a inventatorului.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
+  "legend1": "Nu sunt disponibile date",
+  "customUnitLabel": "la 100.000 de locuitori",
   "tooltipExtraInfoLabel": "Click aici"
 }
